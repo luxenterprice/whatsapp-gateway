@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-gateway",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Gateway using Venom-Bot and Express",
+  "main": "index.js",
+  
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "venom-bot": "^5.0.0"
+  }
+}
